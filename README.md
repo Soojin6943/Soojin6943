@@ -1,42 +1,52 @@
-# 👋 Hello! I'm Soojin
+## 👋 Hi there! 
+**“불치하문(不恥下問)”** 의 자세로 겸손히 묻고 배우며 성장하는 백엔드 개발자, **한수진**입니다 🌱  
+
+‘도전 없는 후회’보다 ‘도전 후의 배움’을 선택하며, 다양한 경험 속에서 끊임없이 성장하고 있습니다.
+
+<br>
+
+## 🛠 Skills
+- **Backend**: Java · Spring Boot · Spring Security  
+- **Database**: MySQL  
+- **Infra / DevOps**: AWS (EC2 · RDS) · Docker · GitHub Actions  
+- **Others**: Python · FastAPI · Git · Postman  
+
+<br>
+
+## 📌 Activities
+- 🏫 **제주대학교 컴퓨터공학과 학생회장** (2025)  
+- 🌍 **WFK IT 해외봉사단 네팔** | 단장 | Python 프로그래밍 교육 · 단원 관리 (2025.07 ~ 2025.08)  
+- 🌏 **WFK IT 해외봉사단 몽골** | 단원 | 아두이노/포토샵 교육 (2024.07 ~ 2024.08)  
+- ☁️ **구름톤 유니브** | 제주대학교 대표 | 11개 대학, 60명 규모 해커톤 운영 (2025.02 ~ 2025.12)  
+- 🔗 **WISET J-Leaders** | 이공계 여대생 활동단 (2024.04 ~ 2024.11)  
+
+<br>
+
+
+## 🏆 Awards
+- 🥇 **대상** | 창업 아이디어 경진대회 (2023)  
+- 🥇 **최우수상** | 지역 과학기술 크리에이터 (2023)  
+- 🥈 **우수상** | 구글 클라우드 기반 AI 과정 (2024)  
+- 🥈 **우수상** | 지역 과학기술 크리에이터 (2022)  
+- 🥉 **장려상** | WFK IT 봉사단 성과보고대회 (2024)  
+- 🥉 **우수상** | Green Energy & Future Mobility 해커톤 (2024)  
+
+<br>
+
+
+## 🎓 Education
+- **제주대학교 컴퓨터공학과** (2022.03 ~ 2026.02 졸업 예정, GPA 4.04/4.5)  
+- **어학연수** | University of San Jose-Recoletos ESL Center (2023.07 ~ 2023.08)  
+
+
+<br>
+
+## 💻 Certifications
+- 정보처리기사 (2025.09)  
+
+<br>
 
 
 ## 📊 GitHub Stats
-
 [![Soojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojin6943&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soojin6943&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🛠️ Tech Stack
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-
-
-
-### 🐍 Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/figma-F24E1E7?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-
-
-
-### 💾 Database
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
----
-
-<!---
-Soojin6943/Soojin6943 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
