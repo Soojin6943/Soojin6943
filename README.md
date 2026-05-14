@@ -1,18 +1,3 @@
-## 👋 Hi there! 
-**“불치하문(不恥下問)”** 의 자세로 겸손히 묻고 배우며 성장하는 백엔드 개발자, **한수진**입니다 🌱  
-
-‘도전 없는 후회’보다 ‘도전 후의 배움’을 선택하며, 다양한 경험 속에서 끊임없이 성장하고 있습니다.
-
-<br>
-
-## 🛠 Skills
-- **Backend**: Java · Spring Boot · Spring Security  
-- **Database**: MySQL  
-- **Infra / DevOps**: AWS (EC2 · RDS) · Docker · GitHub Actions  
-- **Others**: Python · FastAPI · Git · Postman  
-
-<br>
-
 ## 📌 Activities
 - 🏫 **제주대학교 컴퓨터공학과** | 학생회장 | 2025.01 ~ 2025.12  
 - 🌍 **WFK IT 해외봉사단 네팔** | 단장 | 2025.07 ~ 2025.08
